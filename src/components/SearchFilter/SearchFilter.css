@@ -1,0 +1,23 @@
+.searchfiler__body {
+  text-align: center;
+  margin-top: 5%;
+}
+.searchfilter__input {
+  padding: 5px !important;
+  font-size: 20px;
+  border-radius: 8px;
+  outline: none;
+  width: 80%;
+}
+.searchfilter__display {
+  border: 1px solid rgb(65, 63, 63);
+  margin: -10px 10% 0px 10%;
+  background-color: rgb(247, 247, 247);
+  border-radius: 5px;
+  padding: 10px 0px 3px 0px;
+  box-shadow: 5px 5px 5px rgb(214, 214, 214);
+  cursor: pointer;
+}
+.searchfilter_display__content {
+  padding-top: 15px;
+}

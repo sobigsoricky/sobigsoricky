@@ -1,0 +1,4 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: https://www.coursenator.com/static/js/4.3d46d602.chunk.js
+Disallow: https://www.coursenator.com/static/js/main.87295da7.chunk.js
